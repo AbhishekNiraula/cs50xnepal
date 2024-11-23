@@ -105,7 +105,6 @@ export default function Example() {
 											alt={person.name}
 											width={80}
 											height={80}
-											loading="eager"
 										/>
 									</div>
 									<div>
